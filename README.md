@@ -2,7 +2,9 @@
 
 This is a simple PDF Merger application built with Node.js and Express. The app allows users to upload multiple PDF files and merge them into a single PDF document.
 
-![](https://github.com/user-attachments/assets/01014823-9028-49db-a304-3c2210b464a7)
+![Screenshot](https://github.com/user-attachments/assets/51ee3436-90fb-4406-803e-386f7214b3c6)
+
+
 
 
 ## Features
