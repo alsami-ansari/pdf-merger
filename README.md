@@ -17,18 +17,23 @@ This is a simple PDF Merger application built using Node.js and Express. The app
 ## Installation
 
 1. Clone the repository:
-2. 
+
+   \`\`\`bash
    git clone https://github.com/samiansari01/pdf-merger.git
-   cd pdf-merger-app
+   cd pdf-merger
+   \`\`\`
 
+2. Install the required dependencies:
 
-3. Install the required dependencies:
-
+   \`\`\`bash
    npm install
+   \`\`\`
 
-4. Start the server:
+3. Start the server:
 
+   \`\`\`bash
    npm start
+   \`\`\`
 
    The app will be running at \`http://localhost:3000\`.
 
@@ -38,6 +43,7 @@ This is a simple PDF Merger application built using Node.js and Express. The app
 2. Use the file upload form to select the PDF files you want to merge.
 
 
+
 ## Dependencies
 
 - \`express\`: Web framework for Node.js.
@@ -45,8 +51,8 @@ This is a simple PDF Merger application built using Node.js and Express. The app
 - \`multer\`: Middleware for handling file uploads.
 
 
-
 ## Acknowledgements
 
 - [pdf-merger-js](https://www.npmjs.com/package/pdf-merger-js) for providing an easy-to-use API for merging PDF files.
 """
+
