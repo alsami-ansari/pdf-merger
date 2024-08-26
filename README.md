@@ -25,7 +25,7 @@ This is a simple PDF Merger application built using Node.js and Express. The app
 
 2. Install the required dependencies:
 
-```bash
+   ```bash
    npm install
     ```
 
@@ -33,9 +33,8 @@ This is a simple PDF Merger application built using Node.js and Express. The app
 
    ```bash
    npm start
-  ````
+  ```
 
-   The app will be running at \`http://localhost:3000\`.
 
 ## Usage
 
