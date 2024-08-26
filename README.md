@@ -18,22 +18,22 @@ This is a simple PDF Merger application built using Node.js and Express. The app
 
 1. Clone the repository:
 
-   \`\`\`bash
+    ```bash
    git clone https://github.com/samiansari01/pdf-merger.git
    cd pdf-merger
-   \`\`\`
+    ```
 
 2. Install the required dependencies:
 
-   \`\`\`bash
+```bash
    npm install
-   \`\`\`
+    ```
 
 3. Start the server:
 
-   \`\`\`bash
+   ```bash
    npm start
-   \`\`\`
+  ````
 
    The app will be running at \`http://localhost:3000\`.
 
